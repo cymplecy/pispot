@@ -5,6 +5,7 @@
 #Revisions:
 # 0.1 - 25/04/2013 Initial Release
 # 0.1 SW 01Aug2014 - change to use as Hotspot and not AP
+# V0.1.1 03Aug14 - upload to github
 #
 #
 ###################################################
@@ -14,7 +15,7 @@
 #set default values
 ###################################################
 # General
-CURRENT_AUTHOR="idkpmiller@sip2serve.com"
+CURRENT_AUTHOR="simplecy@googlemail.com"
 
 # Network Interface
 IP4_CONF_TYPE=STATIC
